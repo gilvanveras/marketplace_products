@@ -1,0 +1,10 @@
+accelerate[torch]
+datasets
+evaluate
+gradio
+nltk
+pyarrow
+scikit-learn
+seqeval
+torch
+transformers[torch]
