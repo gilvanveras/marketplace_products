@@ -48,6 +48,8 @@ Your application is running :)
 
 ![image](https://github.com/gilvanveras/marketplace_products/assets/15756603/53c3e268-0c2e-4d9f-9f23-f3dd70f8308b)
 
+![image](https://github.com/gilvanveras/marketplace_products/assets/15756603/2ea816da-ca8b-4537-9a13-93357e24e834)
+
 
 Framework versions
 Transformers 4.41.2
