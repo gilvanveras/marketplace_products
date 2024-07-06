@@ -37,6 +37,18 @@ Check out the configuration reference at https://huggingface.co/spaces/Gilvan/ma
 |   4   |    0.015500   |     0.013252    |  0.994994 | 0.994994 | 0.994994 | 0.994994 |
 
 
+# HOWTO
+
+- Clone the repository by: git clone https://github.com/gilvanveras/marketplace_products.git
+- Install the requirements.txt by: pip install -r requirements.txt
+- Download the files model.safetensors and optimizer.pt inside the folder 'ner_model' from this URL: https://huggingface.co/spaces/Gilvan/marketplace_products/tree/main/ner_model
+- Execute the file app.py by: python app.py
+
+Your application is running :)
+
+![image](https://github.com/gilvanveras/marketplace_products/assets/15756603/53c3e268-0c2e-4d9f-9f23-f3dd70f8308b)
+
+
 Framework versions
 Transformers 4.41.2
 Pytorch 2.3.0+cu121
